@@ -24,7 +24,7 @@ Para detenerlo: `docker compose down`.
 - Agenda: `GET /health`, `GET /medicos`, `POST /medicos/:id/reservar`
 - Notificaciones: protocolo TCP, un objeto JSON por línea.
 
-La página local `/` en Citas permite ejecutar y ver solicitudes HTTP de evidencia con código, tiempo y cuerpo.
+La página local `/` en Citas permite ejecutar y ver solicitudes HTTP de evidencia con código, tiempo y cuerpo remoto.
 
 ## Prueba TCP
 
